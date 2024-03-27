@@ -4,7 +4,7 @@ Robot Functional UI Test Automation Framework 2
 ###   One-Time Setup   3
 
 * Open VS terminal 
-* Pleasse reference the material here for machine spcific instructions: - https://github.com/robotframework/robotframework/tree/master <br>
+* Pleasse reference the material [here]( https://github.com/robotframework/robotframework/tree/master) for machine spcific instructions
 
 ### References:
 * [User Guide:](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
