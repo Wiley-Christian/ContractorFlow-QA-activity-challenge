@@ -5,7 +5,7 @@ Robot Functional UI Test Automation Framework 2
 
 * Open VS terminal 
 * Please reference the material [here]( https://github.com/robotframework/robotframework/tree/master) for machine specific instructions
-* [Need to install RobotCode - Robot Framework Support]:(https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) 
+* Need to install RobotCode - Robot Framework Support:[here](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) 
 
 ### References:
 * [User Guide:](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
