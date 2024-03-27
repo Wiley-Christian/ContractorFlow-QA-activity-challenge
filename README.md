@@ -7,8 +7,8 @@ Robot Functional UI Test Automation Framework 2
 * Pleasse reference the material here for machine spcific instructions: - https://github.com/robotframework/robotframework/tree/master <br>
 
 ### References:
-* [User Guide:] (https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
-* [Framework Keywords:] (https://robotframework.org/robotframework/latest/libraries/BuiltIn.html)
+* [User Guide:](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
+* [Framework Keywords:](https://robotframework.org/robotframework/latest/libraries/BuiltIn.html)
 * [QWeb Keywords:](https://qentinelqi.github.io/qweb/QWeb.html)
   
 
