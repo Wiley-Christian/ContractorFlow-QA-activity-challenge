@@ -8,9 +8,9 @@ Test Teardown       Close Tab
 *** Variables ***
 ${OPPORTUNITY_NAME}             ContractorFlow Example Opportunity
 ${BROWSER}                      Chrome
-${SALESFORCE_URL}               https://efficiency-customization-c2-dev-ed.scratch.lightning.force.com/lightning/page/home
-${USERNAME}                     test-g47godb2ia5t@example.com
-${PASSWORD}                     &9qNxuqiipgbu
+${SALESFORCE_URL}               Use Trailhead Playground
+${USERNAME}                     Your Username
+${PASSWORD}                     Your Password
 ${XPATH_LOGIN_BUTTON}           //input[@id='Login']
 ${XPATH_USERNAME_FIELD}         //input[@id='username']
 ${XPATH_PASSWORD_FIELD}         //input[@id='password']
